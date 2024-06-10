@@ -36,9 +36,9 @@ This repo describes a workflow for running [Myo](http://myo.com/) on Apple M1+ u
 4. Install Myo Connect for Windows using the `Myo.Connect.Installer.exe` file.
 5. Connect the Myo dongle and choose Windows 11 as reading machine.
 6. Open Myo Connect on your Windows virtual machine and add a new device.
-7. Open the example patch on your Windows virtual machine (MyoM1-main/MyoM1-win.maxpat) which sends OSC back to the host Mac.
-8. Open the example patch on your Mac (MyoM1-main/MyoM1-mac.maxpat) to receive OSC data.
+7. Open the example patch on your Windows virtual machine (MyoM1-main/MyoM1-win.maxpat). This sends OSC data back to the host Mac.
+8. Open the example patch on your Mac (MyoM1-main/MyoM1-mac.maxpat). This receives OSC data from the Windows virtual machine.
 
-### Copyright
+## Copyright
 
 Copyright (©) 2024 Francesco Di Maggio, Atau Tanaka & Giusy Caruso
