@@ -41,4 +41,4 @@ This repo describes a workflow for running [Myo](http://myo.com/) on Apple M1+ u
 
 ## Copyright
 
-Copyright (©) 2024 Francesco Di Maggio, Atau Tanaka & Giusy Caruso
+Copyright (©) 2024 [Francesco Di Maggio](https://www.francescodimaggio.nl/), [Atau Tanaka](http://ataut.net/) & [Giusy Caruso](https://www.giusycaruso.com/)
