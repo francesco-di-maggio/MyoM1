@@ -2,7 +2,7 @@
 
 ##### ***[ work in progress ]***
 
-This repo describes a workflow for running [Myo](http://myo.com/) on Apple M1+ using a Windows virtual machine, [Max](https://cycling74.com/products/max) and OSC. 
+This repo describes a workflow for running Myo on Apple M1+ using a Windows virtual machine, Max and OSC. 
 
 ## Requirements
 * Apple Silicon M1+
