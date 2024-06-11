@@ -41,4 +41,4 @@ This repo describes a workflow for running Myo on Apple M1+ using a Windows virt
 
 ## Copyright
 
-Copyright (©) 2024 [Francesco Di Maggio](https://www.francescodimaggio.nl/), [Atau Tanaka](http://ataut.net/) & [Giusy Caruso](https://www.giusycaruso.com/)
+Copyright (©) 2024 [Francesco Di Maggio](https://www.francescodimaggio.nl/), [Atau Tanaka](https://github.com/ataut/) & [Giusy Caruso](https://www.giusycaruso.com/)
