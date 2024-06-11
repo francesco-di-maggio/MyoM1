@@ -9,7 +9,7 @@ This repo describes a workflow for running Myo on Apple M1+ using a Windows virt
 * Virtual machine (e.g. [Parallels](https://www.parallels.com/)) running Windows 11
 * Cycling '74 Max (up to 8.5.6)
 * Myo Connect for Windows
-* [Odot](https://github.com/CNMAT/CNMAT-odot) Max external (available in the Max Package Manager)
+
 
 ### Installation
 
@@ -33,7 +33,7 @@ This repo describes a workflow for running Myo on Apple M1+ using a Windows virt
 1. Download [myo-for-max](https://github.com/JulesFrancoise/myo-for-max) and place it in your My Documens `Max 8/Packages` Windows folder.
 2. Clone this repository and place it in your `Max 8/Packages` folder.
 3. Install a virtual machine on your M1+ running Windows 11.
-4. Install Myo Connect for Windows using the `Myo.Connect.Installer.exe` file.
+4. Install Myo Connect for Windows using the [`Myo.Connect.Installer.exe`](https://doc.gold.ac.uk/~mas02at/myo/windows/Myo+Connect+Installer.exe) file.
 5. Connect the Myo dongle and choose Windows 11 as reading machine.
 6. Open Myo Connect on your Windows virtual machine and add a new device.
 7. Open the example patch on your Windows virtual machine (MyoM1-main/MyoM1-win.maxpat). This sends OSC data back to the host Mac.
