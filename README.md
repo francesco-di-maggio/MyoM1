@@ -26,7 +26,7 @@ This repo describes a workflow for running Myo on Apple M1+ using a Windows virt
 
   `~/Documents/Max\ 8/Packages` (Mac)
   
-  `C:/ProgramData/Max\ 8/Library` (Windows)
+  `C:/Mac/Home/Documents/Max\ 8/Library` (Windows)
 
 ### Usage
 
