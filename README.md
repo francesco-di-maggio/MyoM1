@@ -60,12 +60,12 @@ You can download or clone this repo using one of the following methods:
 <img width="311" alt="mac-receive" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/df352d6d-010c-494e-a197-35aa87101547">
 
 ## MyoM1.maxpat
-If you need a more comprehensive patch or simply stream data from multiple Myos, open `MyoM1`.
+If you need a more comprehensive patch (e.g. stream data from multiple devices), open `MyoM1`.
 
 <img width="540" alt="two-myos" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/675b6cc8-5dd9-4948-ab5c-267aef5fef79">
 
 ## Feedback
-If you get stuck or simply have a question, feel free to drop us an [email](mailto:francesco.dimaggio@outlook.com?subject=MyoM1). Happy patching!
+If you get stuck or simply have some questions, feel free to drop us an [email](mailto:francesco.dimaggio@outlook.com?subject=MyoM1). Happy patching!
 
 ### See also
 For a more comprehensive list of software using Myo, check out Balandino Di Donato's [MyoToolkit](https://github.com/balandinodidonato/MyoToolkit/blob/master/Software%20for%20Thalmic's%20Myo%20armband.md).
