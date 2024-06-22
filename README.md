@@ -1,7 +1,5 @@
 # MyoM1
 
-##### ***[ work in progress ]***
-
 This repo describes a workflow for running Myo on Apple M1+ using a Windows virtual machine, Max and OSC. 
 
 ## Requirements
