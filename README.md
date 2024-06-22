@@ -1,9 +1,9 @@
 # MyoM1
 
+## About
+
 A workflow for running Myo on Apple M1+ using a Windows virtual machine, Max and OSC. 
-
-<img alt="MyoM1" src="dev/images/mac-standalone.png" width="400">
-
+	
 ## Requirements
 
 * Apple M1+
@@ -14,9 +14,14 @@ A workflow for running Myo on Apple M1+ using a Windows virtual machine, Max and
 
 ### Usage
 
-You may use this workflow within [Max](https://cycling74.com/releases/max/8.5.6), or as a standalone:
-* A set of patches (send/receive) is provided to get started within Max. 
+To get started, open the example folder and choose for the basic setup. 
+* These simple send/receive patches will allow you to quickly test the system.
+  
+<img width="1148" alt="send-receive" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/2222f4e3-ea78-49a1-bc1b-f8510357a0c5">
+  
 * A standalone is inclued for those who don't use Max, or want to access a ready-to-use system.
+
+<img width="540" alt="two-myos" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/675b6cc8-5dd9-4948-ab5c-267aef5fef79">
 
 ### Installation
 
