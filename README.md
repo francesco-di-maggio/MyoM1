@@ -49,7 +49,7 @@ You can download or clone this repo using one of the following methods:
 2. Open Myo Connect and add a new device.
 <img width="502" alt="win-myoconnect" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/d8f01285-a117-4ff4-b3ab-25bf82e675e2">
 
-3. (Optional) You may want to enter Coherence mode to streamline this workflow: `Windows 11/View/Enter Coherence`.
+3. You may want to enter Coherence mode to streamline this workflow: `Windows 11/View/Enter Coherence`.
 <img width="490" alt="enter-coherence" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/83f8146b-61fa-4b88-841a-ac31abdebbd5">
 
 4. Open `MyoM1-win.maxpat`: this patch sends OSC data back to the host Mac. Click `connect` and choose a device from the dropdown menu. Turn on `stream` toggle to start streaming data. 
