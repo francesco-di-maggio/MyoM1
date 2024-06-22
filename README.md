@@ -60,7 +60,7 @@ You can download or clone this repo using one of the following methods:
 <img width="311" alt="mac-receive" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/df352d6d-010c-494e-a197-35aa87101547">
 
 ## MyoM1.maxpat
-If you need a more comprehensive patch, you can use `MyoM1`. It can stream data from up to 2 Myos and is fully customizable.
+If you need a more comprehensive patch or simply stream data from multiple Myos, open `MyoM1`.
 
 <img width="540" alt="two-myos" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/675b6cc8-5dd9-4948-ab5c-267aef5fef79">
 
