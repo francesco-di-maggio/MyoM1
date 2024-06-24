@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 955.0, 453.0, 597.0, 400.0 ],
+		"rect" : [ 2595.0, 998.0, 469.0, 394.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -47,7 +47,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 251.0, 156.333333333333314, 189.0, 117.0 ],
+					"patching_rect" : [ 238.0, 67.0, 219.0, 319.0 ],
 					"setstyle" : 3,
 					"size" : 8
 				}
@@ -60,7 +60,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 251.0, 112.333333333333314, 63.0, 22.0 ],
+					"patching_rect" : [ 238.0, 38.0, 63.0, 22.0 ],
 					"text" : "route emg"
 				}
 
@@ -72,20 +72,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 251.0, 74.333333333333314, 97.0, 22.0 ],
+					"patching_rect" : [ 238.0, 11.0, 97.0, 22.0 ],
 					"text" : "udpreceive 8002"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bubble" : 1,
-					"id" : "obj-12",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 94.0, 27.5, 108.0, 24.0 ],
-					"text" : "set receive port"
 				}
 
 			}
@@ -98,7 +86,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 25.728664934635162, 162.0, 189.0, 117.0 ],
+					"patching_rect" : [ 13.0, 67.0, 219.0, 319.0 ],
 					"setstyle" : 3,
 					"size" : 8
 				}
@@ -111,7 +99,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 25.728664934635162, 118.166666666666657, 63.0, 22.0 ],
+					"patching_rect" : [ 13.0, 38.0, 63.0, 22.0 ],
 					"text" : "route emg"
 				}
 
@@ -123,22 +111,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 25.728664934635162, 74.333333333333329, 97.0, 22.0 ],
+					"patching_rect" : [ 13.0, 11.0, 97.0, 22.0 ],
 					"text" : "udpreceive 8001"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Avenir Next",
-					"fontsize" : 12.0,
-					"id" : "obj-24",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 25.728664934635162, 27.5, 62.0, 25.0 ],
-					"text" : "port 7001"
 				}
 
 			}
@@ -152,16 +126,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-25", 0 ],
-					"midpoints" : [ 35.228664934635162, 54.0, 35.228664934635162, 54.0 ],
-					"source" : [ "obj-24", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-3", 0 ],
-					"midpoints" : [ 35.228664934635162, 99.0, 35.228664934635162, 99.0 ],
+					"midpoints" : [ 22.5, 26.0, 22.5, 26.0 ],
 					"source" : [ "obj-25", 0 ]
 				}
 
@@ -169,7 +135,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-48", 0 ],
-					"midpoints" : [ 35.228664934635162, 141.0, 35.228664934635162, 141.0 ],
+					"midpoints" : [ 22.5, 68.0, 22.5, 68.0 ],
 					"source" : [ "obj-3", 0 ]
 				}
 
@@ -177,7 +143,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
-					"midpoints" : [ 260.5, 135.333333333333314, 260.5, 135.333333333333314 ],
+					"midpoints" : [ 247.5, 62.333333333333314, 247.5, 62.333333333333314 ],
 					"source" : [ "obj-4", 0 ]
 				}
 
