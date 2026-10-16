@@ -105,9 +105,9 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
-									"outlettype" : [ "mailto:francesco.dimaggio@outlook.com?subject=MyoM1" ],
+									"outlettype" : [ "https://francescodimaggio.nl/" ],
 									"patching_rect" : [ 24.0, 81.0, 326.0, 23.0 ],
-									"text" : "t mailto:francesco.dimaggio@outlook.com?subject=MyoM1"
+									"text" : "t https://francescodimaggio.nl/"
 								}
 
 							}

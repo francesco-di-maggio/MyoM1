@@ -65,7 +65,7 @@ If you need a more comprehensive patch (e.g. stream data from multiple devices),
 <img width="540" alt="two-myos" src="https://github.com/francesco-di-maggio/MyoM1/assets/64175407/675b6cc8-5dd9-4948-ab5c-267aef5fef79">
 
 ## Feedback
-If you get stuck or simply have some questions, feel free to drop us an [email](mailto:francesco.dimaggio@outlook.com?subject=MyoM1). Happy patching!
+If you get stuck or simply have some questions, feel free to get in touch through [francescodimaggio.nl](https://francescodimaggio.nl/). Happy patching!
 
 ### See also
 For a more comprehensive list of software using Myo, check out Balandino Di Donato's [MyoToolkit](https://github.com/balandinodidonato/MyoToolkit/blob/master/Software%20for%20Thalmic's%20Myo%20armband.md).
